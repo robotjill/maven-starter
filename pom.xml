@@ -12,13 +12,13 @@
     <parent>
         <groupId>com.flowlogix</groupId>
         <artifactId>payara-pom</artifactId>
-        <version>151</version>
+        <version>152</version>
     </parent>
 
     <properties>
         <!-- Override target java release -->
         <!-- <maven.compiler.release>25</maven.compiler.release> -->
-        <flowlogix.bom.version>58</flowlogix.bom.version>
+        <flowlogix.bom.version>59</flowlogix.bom.version>
         <flowlogix.depchain.version>135</flowlogix.depchain.version>
         <flowlogix.version>11.7.6</flowlogix.version>
         <checkstyle.suppressionsLocation>${maven.multiModuleProjectDirectory}/src/checkstyle/suppressions.xml</checkstyle.suppressionsLocation>
